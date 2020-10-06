@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicManagmentSystem", "ClinicManagmentSystem\ClinicManagmentSystem.csproj", "{8EA58622-CAC2-42D2-BBDE-14A87E17BC56}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Build For SDG Cohort2 2020 Hosipital Softaware", "..\..\..\Desktop\data\Build For SDG Cohort2 2020 Hosipital Softaware\Build For SDG Cohort2 2020 Hosipital Softaware.vdproj", "{79DCF365-D90D-4D25-9824-9CDECD741088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EA58622-CAC2-42D2-BBDE-14A87E17BC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA58622-CAC2-42D2-BBDE-14A87E17BC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA58622-CAC2-42D2-BBDE-14A87E17BC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA58622-CAC2-42D2-BBDE-14A87E17BC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DCF365-D90D-4D25-9824-9CDECD741088}.Debug|Any CPU.ActiveCfg = Debug
+		{79DCF365-D90D-4D25-9824-9CDECD741088}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B80785-88C1-4C3D-A2BA-F6F1AC94002C}
+	EndGlobalSection
+EndGlobal
